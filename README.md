@@ -18,6 +18,6 @@ Items required:
 
 ## Implementation
 
-Run `$ node FlowingLED.js` if you have Node.js.
+Run `$ node FlowingLEDs.js` if you have Node.js.
 
 
